@@ -42,7 +42,6 @@
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Java.Interop" />
     <Reference Include="Naxam.Jakewharton.Timber, Version=4.7.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Naxam.Jakewharton.Timber.4.7.1\lib\MonoAndroid10\Naxam.Jakewharton.Timber.dll</HintPath>
     </Reference>
